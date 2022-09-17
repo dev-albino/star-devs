@@ -1,0 +1,5 @@
+header h1{
+    color: var(--yellow-light);
+    font-weight: 200;
+    font-size: 4em;
+}
